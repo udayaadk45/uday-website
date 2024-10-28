@@ -1,0 +1,46 @@
+
+  .link-to-amazon{
+  color: rgba(0, 113, 133);
+  }
+  .title{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+  }
+  .price{
+    color: rgba(0,118,0);
+    font-size: 15px;
+  }
+  .Add-to-chart-button{
+  border-color: rgba(255, 216, 20);
+  color: black;
+  border: none;
+  border-radius: 27px;
+  height: 36px;
+  width: 120px;
+  cursor: pointer;
+  transition: opacity 1s;
+}
+.Add-to-chart-button:hover{
+  opacity: 0.6;
+}
+.Add-to-chart-button:active{
+  opacity: 0.2;
+}
+   .buy-now-button{
+    background-color: rgba(255, 164, 28);
+    color: black;
+    border: none;
+    border-radius: 20px;
+    height: 39ox;
+    width: 120px;
+     margin-left: 13px;
+     cursor: pointer;
+     transition: opacity 1s;
+}
+.buy-now-button:hover{
+  opacity: 0.5;
+}
+.buy-now-button:active{
+opacity: 0.2;
+}
